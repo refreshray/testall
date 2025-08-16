@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, MonoMax Sport 1
+https://raw.githubusercontent.com/refreshray/-natural/refs/heads/main/monomax1.m3u8
+#EXTINF:-1, MonoMax Sport 1-1
+https://raw.githubusercontent.com/refreshray/-natural/refs/heads/main/monomax1-1.m3u8
+#EXTINF:-1,  Animal planet
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186393&extension=m3u8
+#EXTINF:-1,  TLC
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186623&extension=m3u8
