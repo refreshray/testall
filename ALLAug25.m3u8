@@ -5,6 +5,10 @@ https://raw.githubusercontent.com/refreshray/-natural/refs/heads/main/monomax1.m
 https://raw.githubusercontent.com/refreshray/-natural/refs/heads/main/monomax1-1.m3u8
 #EXTINF:-1, HBO Hits th
 https://raw.githubusercontent.com/refreshray/doc/refs/heads/main/hbo-hits.m3u8
+#EXTINF:-1, HBO signature th
+https://raw.githubusercontent.com/refreshray/doc/refs/heads/main/hbo-signature.m3u8
+#EXTINF:-1, HBO signature 2 th
+https://raw.githubusercontent.com/refreshray/doc/refs/heads/main/hbo-signature2.m3u8
 #EXTINF:-1, ar-bein-sport1-4k
 https://raw.githubusercontent.com/refreshray/-natural/refs/heads/main/ar-bein-sport1-4k.m3u8
 #EXTINF:-1, ar-bein-sport2-4k
@@ -305,5 +309,6 @@ https://raw.githubusercontent.com/refreshray/inters2/refs/heads/main/trendystrea
 https://raw.githubusercontent.com/refreshray/inters2/refs/heads/main/UK-skysport-golf.m3u8
 #EXTINF:-1, UK-skysport-golf-de
 https://raw.githubusercontent.com/refreshray/inters2/refs/heads/main/UK-skysport-golf-de.m3u8
+
 
 
