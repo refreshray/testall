@@ -5,16 +5,30 @@
   "url": "",
   "stations": [
     {
-      "name": "MONO MAX 1thai",
+      "name": "MONO MAX 1 Eng",
+      "image": "",
+      "url": "https://ball67.com/channels/monomax1",
+      "referer": "https://ball67.com",
+      "userAgent": ""
+    },
+    {
+      "name": "MONO MAX 2 Th",
       "image": "",
       "url": "https://ball67.com/channels/monomax2",
       "referer": "https://ball67.com",
       "userAgent": ""
     },
     {
-      "name": "MONO MAX 1Eng",
+      "name": "MONO MAX 3",
       "image": "",
-      "url": "https://ball67.com/channels/monomax1",
+      "url": "https://ball67.com/channels/monomax3",
+      "referer": "https://ball67.com",
+      "userAgent": ""
+    },
+    {
+      "name": "MONO MAX 4 Th",
+      "image": "",
+      "url": "https://ball67.com/channels/monomax4",
       "referer": "https://ball67.com",
       "userAgent": ""
     },
