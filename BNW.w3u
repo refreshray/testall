@@ -2,7 +2,7 @@
   "name": "#ชินจังจอมแก่น#",
   "author": "ชินจัง",
   "image": "https://stickershop.line-scdn.net/stickershop/v1/product/718/LINEStorePC/main.png?v=9",
-  "url": "https://raw.githubusercontent.com/refreshray/testall/refs/heads/main/BNW.w3u",
+  "url": "",
   "stations": [
     {
       "name": "MONO MAX 1 Eng",
@@ -30,6 +30,55 @@
       "image": "",
       "url": "https://ball67.com/channels/monomax4",
       "referer": "https://ball67.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 4-1 Tha",
+      "image": "",
+      "url": "https://www.baan-ball.com/live/watch/32127",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 5 Tha",
+      "image": "",
+      "url": "https://www.baan-ball.com/live/watch/32126",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 6 Tha",
+      "image": "",
+      "url": "https://www.baan-ball.com/live/watch/32128",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 7 Tha",
+      "image": "",
+      "url": "https://www.baan-ball.com/live/watch/32129",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 8 Tha",
+      "image": "",
+      "url": "https://www.baan-ball.com/live/watch/32196",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 9 Tha",
+      "image": "",
+      "url": "https://www.baan-ball.com/live/watch/32195",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 10 Tha",
+      "image": "",
+      "url": "https://www.baan-ball.com/live/watch/32197",
+      "referer": "https://www.baan-ball.com",
       "userAgent": ""
     },
   
