@@ -84,10 +84,31 @@
    {
       "name": "MONO MAX 1 Tha",
       "image": "",
-      "url": "https://dooball666.live/ดูบอลออนไลน์/MONOMAX1",
+      "url": "https://dooball666.live/ดูบอลออนไลน์/monomax1",
       "referer": "https://www.baan-ball.com",
       "userAgent": ""
     },
-  
+   {
+      "name": "MONO MAX 1 Eng",
+      "image": "",
+      "url": "https://dooball661.com/ดูบอลออนไลน์/monomax01",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 1 Eng",
+      "image": "",
+      "url": "https://dooball661.com/ดูบอลออนไลน์/monomax01",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 1 Eng",
+      "image": "",
+      "url": "https://dooball661.com/ดูบอลออนไลน์/lx-origin/th-monomax01bkp_720",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+
   ]
 }
