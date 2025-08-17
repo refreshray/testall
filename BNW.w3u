@@ -12,14 +12,14 @@
       "userAgent": ""
     },
     {
-      "name": "MONO MAX 1Tha",
+      "name": "MONO MAX 2Tha",
       "image": "",
       "url": "https://ball67.com/channels/monomax2",
       "referer": "https://ball67.com",
       "userAgent": ""
     },
    {
-      "name": "MONO MAX 1Eng",
+      "name": "MONO MAX 3 Eng",
       "image": "",
       "url": "https://ball67.com/channels/monomax3",
       "referer": "https://ball67.com",
@@ -78,6 +78,13 @@
       "name": "MONO MAX 10 Tha",
       "image": "",
       "url": "https://www.baan-ball.com/live/watch/32197",
+      "referer": "https://www.baan-ball.com",
+      "userAgent": ""
+    },
+   {
+      "name": "MONO MAX 1 Tha",
+      "image": "",
+      "url": "https://dooball666.live/ดูบอลออนไลน์/MONOMAX1",
       "referer": "https://www.baan-ball.com",
       "userAgent": ""
     },
