@@ -1,16 +1,36 @@
 {
-  "name": "RAY NATURE",
+  "name": "MONO MAX Channels",
   "groups": [
     {
-      "name": "Live TV",
+      "name": "MONO MAX",
       "channels": [
         {
-          "name": "monomax1",
-          "url": "https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1.m3u8"
+          "name": "MONO MAX 1 Eng",
+          "image": "",
+          "url": "https://ball67.com/channels/monomax1",
+          "referer": "https://ball67.com",
+          "userAgent": ""
         },
         {
-          "name": "monomax 1 Eng",
-          "url": "https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1-1.m3u8"
+          "name": "MONO MAX 2 Tha",
+          "image": "",
+          "url": "https://ball67.com/channels/monomax2",
+          "referer": "https://ball67.com",
+          "userAgent": ""
+        },
+        {
+          "name": "MONO MAX 3 Eng",
+          "image": "",
+          "url": "https://ball67.com/channels/monomax3",
+          "referer": "https://ball67.com",
+          "userAgent": ""
+        },
+        {
+          "name": "MONO MAX 4 Tha",
+          "image": "",
+          "url": "https://ball67.com/channels/monomax4",
+          "referer": "https://ball67.com",
+          "userAgent": ""
         }
       ]
     }
