@@ -1,15 +1,31 @@
 {
-  "name": "ช่องทางธรรมชาติ",
+  "name": "WANDERING OLDMAN AIS",
   "groups": [
     {
       "name": "Live TV",
       "channels": [
         {
-          "name": "HBO",
+          "name": "ช่อง 103",
           "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
           "drm_clear_keys": "9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179",
           "epg": "",
           "logo": ""
+        },
+        {
+          "name": "ช่อง 104",
+          "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd",
+          "drm_clear_keys": "0123456789abcdef0123456789abcdef:fedcba9876543210fedcba9876543210",
+          "epg": "",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "name": "Sports Playlist",
+      "channels": [
+        {
+          "name": "monomax1",
+          "url": "https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1.m3u8"
         }
       ]
     }
