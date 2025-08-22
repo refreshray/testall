@@ -3,8 +3,8 @@
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1.m3u8
 #EXTINF:-1, Monomax 1-1
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1-1.m3u8
-#EXTINF:-1 tvg-logo="https://www.img06.xyz/assets/img/ch_logo/Monomax_Sport1.png" tvg-name="Monomax_Sport 1(HD1)" tvg-referer="https://tubtoeball.net",Monomax_Sport 1(HD1)
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img06.xyz/assets/img/ch_logo/Monomax_Sport1.png" tvg-name="Monomax_Sport 1(HD1)" tvg-referer="https://dookeela2.live",Monomax_Sport 1(HD1)
+https://dookeela2.live/live-tv/monomax1
 #EXTINF:-1 tvg-logo="https://www.img07.xyz/assets/img/ch_logo/Monomax_Sport2.png" tvg-name="Monomax_Sport 2" tvg-referer="https://dookeela.live/live-tv" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",Monomax_Sport 2
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport3.png" tvg-name="Monomax_Sport 3" tvg-referer="https://dookeela.live/live-tv" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",Monomax_Sport 3
