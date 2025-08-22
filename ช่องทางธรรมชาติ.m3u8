@@ -129,105 +129,58 @@ https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-foxsport1.m3u8
 #EXTINF:-1, aus-foxsport2
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-foxsport2.m3u8
-
-#EXTINF:-1, ppv-fight-pass
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/ppv-fight-pass.m3u8
-#EXTINF:-1, uk-skysport-golf-de
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/uk-skysport-golf-de.m3u8
-#EXTINF:-1, aus-beinsport-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-beinsport-1.m3u8
-#EXTINF:-1, aus-beinsport-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-beinsport-2.m3u8
-#EXTINF:-1, aus-beinsport-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-beinsport-3.m3u8
-#EXTINF:-1, aus-dazn-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-dazn-1.m3u8
-#EXTINF:-1, aus-dazn-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-dazn-2.m3u8
-#EXTINF:-1, aus-dazn-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-dazn-3.m3u8
-#EXTINF:-1, aus-dazn-4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-dazn-4.m3u8
-#EXTINF:-1, aus-dazn-5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-dazn-5.m3u8
-#EXTINF:-1, aus-dazn-laliga
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-dazn-laliga.m3u8
-#EXTINF:-1, aus-dazn-ufc
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-dazn-ufc.m3u8
-#EXTINF:-1, aus-eleven-canal1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-canal1.m3u8
-#EXTINF:-1, aus-eleven-canal2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-canal2.m3u8
-#EXTINF:-1, aus-eleven-channel3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-channel3.m3u8
-#EXTINF:-1, aus-eleven-channel4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-channel4.m3u8
-#EXTINF:-1, aus-eleven-sport1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-sport1.m3u8
-#EXTINF:-1, aus-eleven-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-sport2.m3u8
-#EXTINF:-1, aus-eleven-sport3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-sport3.m3u8
-#EXTINF:-1, aus-eleven-sport4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-sport4.m3u8
-#EXTINF:-1, aus-eleven-sport5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-eleven-sport5.m3u8
-#EXTINF:-1, aus-fox-soccer
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-fox-soccer.m3u8
-#EXTINF:-1, aus-fox-sports
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-fox-sports.m3u8
+#EXTINF:-1, Golfpass
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-golfpass.m3u8
+#EXTINF:-1, Skysport-golf
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-skysport-golf-4k.m3u8
 #EXTINF:-1, aus-golf
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-golf.m3u8
-#EXTINF:-1, aus-motors
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-motors.m3u8
 #EXTINF:-1, aus-motor-gp
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-motor-gp.m3u8
 #EXTINF:-1, aus-polsat-sport1
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-polsat-sport1.m3u8
-#EXTINF:-1, aus-polsat-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-polsat-sport2.m3u8
-#EXTINF:-1, aus-skysport-action
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-action.m3u8
+#EXTINF:-1, aus-polsat-sport3
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-polsat-sport3.m3u8
 #EXTINF:-1, aus-skysport-eurosport1
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-eurosport1.m3u8
 #EXTINF:-1, aus-skysport-eurosport2
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-eurosport2.m3u8
 #EXTINF:-1, aus-skysport-mix
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-mix.m3u8
-#EXTINF:-1, aus-skysport-news
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-news.m3u8
+#EXTINF:-1, aus-skysport-premier
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-premier.m3u8
 #EXTINF:-1, aus-skysport-tennis
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-tennis.m3u8
+#EXTINF:-1, aus-skysport-topevent
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-topevent.m3u8
 #EXTINF:-1, aus-skysport1
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport1.m3u8
 #EXTINF:-1, aus-skysport2
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport2.m3u8
 #EXTINF:-1, aus-skysport3
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport3.m3u8
-#EXTINF:-1, aus-skysport4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport4.m3u8
-#EXTINF:-1, aus-skysport-box-office
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-skysport-box-office.m3u8
-#EXTINF:-1, aus-sport-klube2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube2.m3u8
-#EXTINF:-1, aus-sport-klube3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube3.m3u8
-#EXTINF:-1, aus-sport-klube4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube4.m3u8
-#EXTINF:-1, aus-sport-klube5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube5.m3u8
-#EXTINF:-1, aus-sport-klube6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube6.m3u8
-#EXTINF:-1, aus-sport-klube7
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube7.m3u8
-#EXTINF:-1, aus-sport-klube8
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube8.m3u8
-#EXTINF:-1, aus-sport-klube
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klube.m3u8
-#EXTINF:-1, aus-tennis-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tennis-3.m3u8
-#EXTINF:-1, aus-tivibul-espn
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tivibul-espn.m3u8
+#EXTINF:-1, aus-sport-klub-1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-1.m3u8
+#EXTINF:-1, aus-sport-klub-10
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-10.m3u8
+#EXTINF:-1, aus-sport-klub-2
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-2.m3u8
+#EXTINF:-1, aus-sport-klub-3
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-3.m3u8
+#EXTINF:-1, aus-sport-klub-4
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-4.m3u8
+#EXTINF:-1, aus-sport-klub-5
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-5.m3u8
+#EXTINF:-1, aus-sport-klub-6
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-6.m3u8
+#EXTINF:-1, aus-sport-klub-7
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-7.m3u8
+#EXTINF:-1, aus-sport-klub-8
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-8.m3u8
+#EXTINF:-1, aus-sport-klub-9
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-sport-klub-9.m3u8
+#EXTINF:-1, aus-tivibul-espn1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tivibul-espn1.m3u8
 #EXTINF:-1, aus-tivibul-espn2
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tivibul-espn2.m3u8
 #EXTINF:-1, aus-tivibul-espn3
@@ -240,14 +193,12 @@ https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tivibul-sport3.m3u8
 #EXTINF:-1, aus-tnt-sport1
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tnt-sport1.m3u8
-#EXTINF:-1, aus-tnt-sport1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tnt-sport1.txt
 #EXTINF:-1, aus-tnt-sport2
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tnt-sport2.m3u8
 #EXTINF:-1, aus-tnt-sport3
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tnt-sport3.m3u8
-#EXTINF:-1, aus-tnt-sports
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-tnt-sports.m3u8
+#EXTINF:-1, aus-ufc-fight
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-ufc-fight.m3u8
 #EXTINF:-1, aus-uno
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-uno.m3u8
 #EXTINF:-1, aus-ziggo-sport1
@@ -260,38 +211,42 @@ https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-ziggo-sport4.m3u8
 #EXTINF:-1, aus-ziggo-sport
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-ziggo-sport.m3u8
-#EXTINF:-1, aus-zigu-sport
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-zigu-sport.m3u8
+#EXTINF:-1, cf-go4k-hub-premier1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/cf-go4k-hub-premier1.m3u8
 #EXTINF:-1, cf-go4k-hub-premier-and
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/cf-go4k-hub-premier-and.m3u8
-#EXTINF:-1, cf-go4k-hub-premier-and2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/cf-go4k-hub-premier-and2.m3u8
-#EXTINF:-1, Golf-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/Golf-3.m3u8
-#EXTINF:-1, hr-arena-sport-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-1.m3u8
-#EXTINF:-1, hr-arena-sport-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-2.m3u8
-#EXTINF:-1, hr-arena-sport-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-3.m3u8
-#EXTINF:-1, hr-arena-sport-4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-4.m3u8
-#EXTINF:-1, hr-arena-sport-5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-5.m3u8
-#EXTINF:-1, hr-arena-sport-6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-6.m3u8
-#EXTINF:-1, hr-arena-sport-7
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-7.m3u8
-#EXTINF:-1, hr-arena-sport-8
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-8.m3u8
-#EXTINF:-1, hr-arena-sport-9
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-9.m3u8
-#EXTINF:-1, hr-arena-sport-10
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport-10.m3u8
-#EXTINF:-1, hr-sport-klub-golf
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-sport-klub-golf.m3u8
-#EXTINF:-1, hr-sport-klub-golf2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-sport-klub-golf2.m3u8
+#EXTINF:-1, cf-go4k-tnt-sport1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/cf-go4k-tnt-sport1.m3u8
+#EXTINF:-1, cf-go4k-tnt-sport1hd
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/cf-go4k-tnt-sport1hd.m3u8
+#EXTINF:-1, hr-arena-fight-sport
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-fight-sport.m3u8
+#EXTINF:-1, hr-arena-sport1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport1.m3u8
+#EXTINF:-1, hr-arena-sport10
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport10.m3u8
+#EXTINF:-1, hr-arena-sport11
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport11.m3u8
+#EXTINF:-1, hr-arena-sport2
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport2.m3u8
+#EXTINF:-1, hr-arena-sport3
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport3.m3u8
+#EXTINF:-1, hr-arena-sport4
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport4.m3u8
+#EXTINF:-1, hr-arena-sport5
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport5.m3u8
+#EXTINF:-1, hr-arena-sport6
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport6.m3u8
+#EXTINF:-1, hr-arena-sport7
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport7.m3u8
+#EXTINF:-1, hr-arena-sport8
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport8.m3u8
+#EXTINF:-1, hr-arena-sport9
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-arena-sport9.m3u8
+#EXTINF:-1, hr-maxsport1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-maxsport1.m3u8
+#EXTINF:-1, hr-maxsport2
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-maxsport2.m3u8
 #EXTINF:-1, hr-sport-klub-1
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-sport-klub-1.m3u8
 #EXTINF:-1, hr-sport-klub-2
@@ -308,16 +263,20 @@ https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-sport-klub-7.m3u8
 #EXTINF:-1, hr-sport-klub-8
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/hr-sport-klub-8.m3u8
+#EXTINF:-1, srb-arenasport1-premium
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport1-premium.m3u8
+#EXTINF:-1, srb-arenasport10
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport10.m3u8
 #EXTINF:-1, srb-arenasport11-premium
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport11-premium.m3u8
 #EXTINF:-1, srb-arenasport12
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport12.m3u8
-#EXTINF:-1, srb-arenasport10
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport10.m3u8
-#EXTINF:-1, srb-arenasport1-premium
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport1-premium.m3u8
 #EXTINF:-1, srb-arenasport2
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport2.m3u8
+#EXTINF:-1, srb-arenasport2-premium
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport2-premium.m3u8
+#EXTINF:-1, srb-arenasport3
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport3.m3u8
 #EXTINF:-1, srb-arenasport3-premium
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport3-premium.m3u8
 #EXTINF:-1, srb-arenasport4
@@ -330,222 +289,13 @@ https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport7.m3u8
 #EXTINF:-1, srb-arenasport8
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport8.m3u8
-#EXTINF:-1, srb-arenasport9
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-arenasport9.m3u8
+#EXTINF:-1, srb-eurosport1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-eurosport1.m3u8
+#EXTINF:-1, srb-eurosport2
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-eurosport2.m3u8
 #EXTINF:-1, srb-nova-sport
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-nova-sport.m3u8
-#EXTINF:-1, srb-nova-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-nova-sport2.m3u8
 #EXTINF:-1, srb-nova-sport-premier1
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-nova-sport-premier1.m3u8
 #EXTINF:-1, srb-nova-sport-premier2
 https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-nova-sport-premier2.m3u8
-#EXTINF:-1, srb-nova-sport-premier3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-nova-sport-premier3.m3u8
-#EXTINF:-1, srb-sport-klub-1-hr
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-1-hr.m3u8
-#EXTINF:-1, srb-sport-klub-2-hr
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-2-hr.m3u8
-#EXTINF:-1, srb-sport-klub-3-hr
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-3-hr.m3u8
-#EXTINF:-1, srb-sport-klub-4-hr
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-4-hr.m3u8
-#EXTINF:-1, srb-sport-klub-5-hr
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-5-hr.m3u8
-#EXTINF:-1, srb-sport-klub-6-hr
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-6-hr.m3u8
-#EXTINF:-1, srb-sport-klub-golf
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-golf.m3u8
-#EXTINF:-1, srb-sport-klub-golf2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-golf2.m3u8
-#EXTINF:-1, srb-sport-klub-golf3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-golf3.m3u8
-#EXTINF:-1, srb-sport-klub-premier
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-premier.m3u8
-#EXTINF:-1, srb-sport-klub-premier2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/srb-sport-klub-premier2.m3u8
-#EXTINF:-1, sk-canal-sport1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-canal-sport1.m3u8
-#EXTINF:-1, sk-canal-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-canal-sport2.m3u8
-#EXTINF:-1, sk-canal-sport3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-canal-sport3.m3u8
-#EXTINF:-1, sk-canal-sport4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-canal-sport4.m3u8
-#EXTINF:-1, sk-o2-sport1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-o2-sport1.m3u8
-#EXTINF:-1, sk-o2-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-o2-sport2.m3u8
-#EXTINF:-1, sk-o2-sport3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-o2-sport3.m3u8
-#EXTINF:-1, sk-o2-sport4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-o2-sport4.m3u8
-#EXTINF:-1, sk-o2-sport5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-o2-sport5.m3u8
-#EXTINF:-1, sk-o2-sport6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-o2-sport6.m3u8
-#EXTINF:-1, sk-o2-sport7
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-o2-sport7.m3u8
-#EXTINF:-1, sk-nova-sport
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-nova-sport.m3u8
-#EXTINF:-1, sk-sport-klub-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-1.m3u8
-#EXTINF:-1, sk-sport-klub-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-2.m3u8
-#EXTINF:-1, sk-sport-klub-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-3.m3u8
-#EXTINF:-1, sk-sport-klub-4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-4.m3u8
-#EXTINF:-1, sk-sport-klub-5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-5.m3u8
-#EXTINF:-1, sk-sport-klub-6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-6.m3u8
-#EXTINF:-1, sk-sport-klub-7
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-7.m3u8
-#EXTINF:-1, sk-sport-klub-8
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-8.m3u8
-#EXTINF:-1, sk-sport-klub-9
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-9.m3u8
-#EXTINF:-1, sk-sport-klub-10
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-10.m3u8
-#EXTINF:-1, sk-sport-klub-golf
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-golf.m3u8
-#EXTINF:-1, sk-sport-klub-golf2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-golf2.m3u8
-#EXTINF:-1, sk-sport-klub-golf3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-golf3.m3u8
-#EXTINF:-1, sk-sport-klub-premier1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-premier1.m3u8
-#EXTINF:-1, sk-sport-klub-premier2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-premier2.m3u8
-#EXTINF:-1, sk-sport-klub-premier3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-premier3.m3u8
-#EXTINF:-1, sk-sport-klub-premier4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-premier4.m3u8
-#EXTINF:-1, sk-sport-klub-premier5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-premier5.m3u8
-#EXTINF:-1, sk-sport-klub-premier6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-sport-klub-premier6.m3u8
-#EXTINF:-1, sk-tivi-bul-sport1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-tivi-bul-sport1.m3u8
-#EXTINF:-1, sk-tivi-bul-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-tivi-bul-sport2.m3u8
-#EXTINF:-1, sk-tivi-bul-sport3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sk-tivi-bul-sport3.m3u8
-#EXTINF:-1, sl-arena-sport-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-arena-sport-1.m3u8
-#EXTINF:-1, sl-arena-sport-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-arena-sport-2.m3u8
-#EXTINF:-1, sl-arena-sport-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-arena-sport-3.m3u8
-#EXTINF:-1, sl-arena-sport-4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-arena-sport-4.m3u8
-#EXTINF:-1, sl-arena-sport-5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-arena-sport-5.m3u8
-#EXTINF:-1, sl-arena-sport-6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-arena-sport-6.m3u8
-#EXTINF:-1, sl-sport-klub-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-1.m3u8
-#EXTINF:-1, sl-sport-klub-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-2.m3u8
-#EXTINF:-1, sl-sport-klub-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-3.m3u8
-#EXTINF:-1, sl-sport-klub-4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-4.m3u8
-#EXTINF:-1, sl-sport-klub-5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-5.m3u8
-#EXTINF:-1, sl-sport-klub-6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-6.m3u8
-#EXTINF:-1, sl-sport-klub-7
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-7.m3u8
-#EXTINF:-1, sl-sport-klub-8
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-8.m3u8
-#EXTINF:-1, sl-sport-klub-9
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-9.m3u8
-#EXTINF:-1, sl-sport-klub-10
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-10.m3u8
-#EXTINF:-1, sl-sport-klub-golf
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-golf.m3u8
-#EXTINF:-1, sl-sport-klub-golf2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-golf2.m3u8
-#EXTINF:-1, sl-sport-klub-golf3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-golf3.m3u8
-#EXTINF:-1, sl-sport-klub-premier1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-premier1.m3u8
-#EXTINF:-1, sl-sport-klub-premier2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-premier2.m3u8
-#EXTINF:-1, sl-sport-klub-premier3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-premier3.m3u8
-#EXTINF:-1, sl-sport-klub-premier4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-premier4.m3u8
-#EXTINF:-1, sl-sport-klub-premier5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-premier5.m3u8
-#EXTINF:-1, sl-sport-klub-premier6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-sport-klub-premier6.m3u8
-#EXTINF:-1, sl-tivi-bul-sport1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-tivi-bul-sport1.m3u8
-#EXTINF:-1, sl-tivi-bul-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-tivi-bul-sport2.m3u8
-#EXTINF:-1, sl-tivi-bul-sport3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/sl-tivi-bul-sport3.m3u8
-#EXTINF:-1, us-arena-sport-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-arena-sport-1.m3u8
-#EXTINF:-1, us-arena-sport-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-arena-sport-2.m3u8
-#EXTINF:-1, us-arena-sport-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-arena-sport-3.m3u8
-#EXTINF:-1, us-arena-sport-4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-arena-sport-4.m3u8
-#EXTINF:-1, us-arena-sport-5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-arena-sport-5.m3u8
-#EXTINF:-1, us-arena-sport-6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-arena-sport-6.m3u8
-#EXTINF:-1, us-sport-klub-1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-1.m3u8
-#EXTINF:-1, us-sport-klub-2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-2.m3u8
-#EXTINF:-1, us-sport-klub-3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-3.m3u8
-#EXTINF:-1, us-sport-klub-4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-4.m3u8
-#EXTINF:-1, us-sport-klub-5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-5.m3u8
-#EXTINF:-1, us-sport-klub-6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-6.m3u8
-#EXTINF:-1, us-sport-klub-7
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-7.m3u8
-#EXTINF:-1, us-sport-klub-8
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-8.m3u8
-#EXTINF:-1, us-sport-klub-9
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-9.m3u8
-#EXTINF:-1, us-sport-klub-10
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-10.m3u8
-#EXTINF:-1, us-sport-klub-golf
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-golf.m3u8
-#EXTINF:-1, us-sport-klub-golf2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-golf2.m3u8
-#EXTINF:-1, us-sport-klub-golf3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-golf3.m3u8
-#EXTINF:-1, us-sport-klub-premier1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-premier1.m3u8
-#EXTINF:-1, us-sport-klub-premier2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-premier2.m3u8
-#EXTINF:-1, us-sport-klub-premier3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-premier3.m3u8
-#EXTINF:-1, us-sport-klub-premier4
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-premier4.m3u8
-#EXTINF:-1, us-sport-klub-premier5
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-premier5.m3u8
-#EXTINF:-1, us-sport-klub-premier6
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-sport-klub-premier6.m3u8
-#EXTINF:-1, us-tivi-bul-sport1
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-tivi-bul-sport1.m3u8
-#EXTINF:-1, us-tivi-bul-sport2
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-tivi-bul-sport2.m3u8
-#EXTINF:-1, us-tivi-bul-sport3
-https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/us-tivi-bul-sport3.m3u8
-#EXTINF:-1, Golfpass
-https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-golfpass.m3u8
-#EXTINF:-1, Skysport-golf
-https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-skysport-golf-4k.m3u8
-
