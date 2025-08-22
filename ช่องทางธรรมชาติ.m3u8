@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, Premier1
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier1.m3u8
+#EXTINF:-1, Premier2
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier2.m3u8
+#EXTINF:-1, Premier3
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier3.m3u8
+#EXTINF:-1, Premier4
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier4.m3u8
