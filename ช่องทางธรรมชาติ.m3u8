@@ -1,9 +1,29 @@
 #EXTM3U
-#EXTINF:-1, Premier1
+#EXTINF:-1, HUB Premier1
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier1.m3u8
-#EXTINF:-1, Premier2
+#EXTINF:-1, HUB Premier2
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier2.m3u8
-#EXTINF:-1, Premier3
+#EXTINF:-1, HUB Premier3
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier3.m3u8
-#EXTINF:-1, Premier4
+#EXTINF:-1, HUB Premier4
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier4.m3u8
+#EXTINF:-1, EPL-hightlight
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-hightlight.m3u8
+#EXTINF:-1, EPL-replay-1
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-1.m3u8
+#EXTINF:-1, EPL-replay-2
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-2.m3u8
+#EXTINF:-1, EPL-replay-3
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-3.m3u8
+#EXTINF:-1, EPL-replay-4
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-4.m3u8
+#EXTINF:-1, EPL-replay-5
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-5.m3u8
+#EXTINF:-1, EPL-replay-6
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-6.m3u8
+#EXTINF:-1, EPL-replay-7
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-7.m3u8
+#EXTINF:-1, EPL-replay-8
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-8.m3u8
+#EXTINF:-1, EPL-replay-9
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-9.m3u8
