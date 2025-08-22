@@ -27,3 +27,7 @@ https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/head
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-8.m3u8
 #EXTINF:-1, EPL-replay-9
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-replay-9.m3u8
+#EXTINF:-1, CPS-hightlight
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-CPS-hightlight.m3u8
+#EXTINF:-1, CPL-hightlight
+https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-CPL-hightlight.m3u8
