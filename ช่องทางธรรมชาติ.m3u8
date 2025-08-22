@@ -71,3 +71,25 @@ https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/head
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-golfpass.m3u8
 #EXTINF:-1, Skysport-golf
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-skysport-golf-4k.m3u8
+
+#EXTINF:-1, tvg-name="Asian Food Network" tvg-logo="" group-title="document", afn
+https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/afn.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="", AXN
+https://raw.githubusercontent.com/wandering-oldman/movies/refs/heads/main/axn.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="", Hbo-family
+https://raw.githubusercontent.com/wandering-oldman/movies/refs/heads/main/hbo-family.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="", Hbo-hits
+https://raw.githubusercontent.com/wandering-oldman/movies/refs/heads/main/hbo-hits.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="", Hbo-signature
+https://raw.githubusercontent.com/wandering-oldman/movies/refs/heads/main/hbo-signature.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="", Hbo
+https://raw.githubusercontent.com/wandering-oldman/movies/refs/heads/main/hbo.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="",
