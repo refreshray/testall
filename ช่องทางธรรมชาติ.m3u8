@@ -3,16 +3,14 @@
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1.m3u8
 #EXTINF:-1, Monomax 1-1
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1-1.m3u8
-#EXTINF:-1 tvg-logo="https://www.img06.xyz/assets/img/ch_logo/Monomax_Sport1.png" tvg-name="Monomax_Sport 1(HD1)" tvg-referer="https://dookeela2.live",Monomax_Sport 1(HD1)
-https://dookeela2.live/live-tv/monomax1
-#EXTINF:-1 tvg-logo="https://www.img07.xyz/assets/img/ch_logo/Monomax_Sport2.png" tvg-name="Monomax_Sport 2" tvg-referer="https://dookeela.live/live-tv" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",Monomax_Sport 2
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport3.png" tvg-name="Monomax_Sport 3" tvg-referer="https://dookeela.live/live-tv" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",Monomax_Sport 3
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/Monomax_Sport4.png" tvg-name="Monomax_Sport 4" tvg-referer="https://dookeela.live/live-tv" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",Monomax_Sport 4
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/Monomax_Sport5.png" tvg-name="Monomax_Sport 5" tvg-referer="https://dookeela.live/live-tv" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",Monomax_Sport 5
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-5/playlist.m3u8
+#EXTINF:-1, SPOTV true
+https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/truespotv1.m3u8
+#EXTINF:-2, SPOTV 2 true
+https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/truespotv2.m3u8
+#EXTINF:-2, WB tv (Thai)
+https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/truewb.m3u8
+#EXTINF:-2, HBO (Thai)
+https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/HBOTHAI.m3u8
 #EXTINF:-1, HUB Premier1
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier1.m3u8
 #EXTINF:-1, HUB Premier2
