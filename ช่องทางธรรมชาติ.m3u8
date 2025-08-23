@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/head
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier3.m3u8
 #EXTINF:-1, HUB Premier4
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-hub-premier4.m3u8
+#EXTINF:-1, aus-beinsport1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/aus-beinsport1.m3u8
 #EXTINF:-1, EPL-hightlight
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-EPL-hightlight.m3u8
 #EXTINF:-1, EPL-replay-1
@@ -81,96 +83,3 @@ https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/head
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-CPL-replay-8.m3u8
 #EXTINF:-1, CPL-replay-9
 https://raw.githubusercontent.com/wandering-oldman/intersport-football/refs/heads/main/cf-go4k-me-CPL-replay-9.m3u8
-
-#EXTINF:-1, afn
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/afn.m3u8
-#EXTINF:-1, animal-planet
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/animal-planet.m3u8
-#EXTINF:-1, animal-planet1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/animal-planet1.m3u8
-#EXTINF:-1, animal-planet2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/animal-planet2.m3u8
-#EXTINF:-1, animal-planet3
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/animal-planet3.m3u8
-#EXTINF:-1, crime-investigation
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/crime-investigation.m3u8
-#EXTINF:-1, crime-investigation1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/crime-investigation1.m3u8
-#EXTINF:-1, discovery
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/discovery.m3u8
-#EXTINF:-1, discovery1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/discovery1.m3u8
-#EXTINF:-1, discovery2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/discovery2.m3u8
-#EXTINF:-1, discovery3
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/discovery3.m3u8
-#EXTINF:-1, doc-tlc
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/doc-tlc.m3u8
-#EXTINF:-1, doc-tlc1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/doc-tlc1.m3u8
-#EXTINF:-1, doc-tlc2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/doc-tlc2.m3u8
-#EXTINF:-1, documentary-channel
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/documentary-channel.m3u8
-#EXTINF:-1, history
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/history.m3u8
-#EXTINF:-1, history1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/history1.m3u8
-#EXTINF:-1, history2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/history2.m3u8
-#EXTINF:-1, history3
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/history3.m3u8
-#EXTINF:-1, history4
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/history4.m3u8
-#EXTINF:-1, lifestyle
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/lifestyle.m3u8
-#EXTINF:-1, music-channel
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/music-channel.m3u8
-#EXTINF:-1, music-retro
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/music-retro.m3u8
-#EXTINF:-1, music-retrov
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/music-retrov.m3u8
-#EXTINF:-1, music1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/music1.m3u8
-#EXTINF:-1, music2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/music2.m3u8
-#EXTINF:-1, music3
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/music3.m3u8
-#EXTINF:-1, mystery
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/mystery.m3u8
-#EXTINF:-1, nfl-network
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/nfl-network.m3u8
-#EXTINF:-1, outdoor
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/outdoor.m3u8
-#EXTINF:-1, tlc
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/tlc.m3u8
-#EXTINF:-1, true-life
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-life.m3u8
-#EXTINF:-1, true-life2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-life2.m3u8
-#EXTINF:-1, true-life3
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-life3.m3u8
-#EXTINF:-1, true-wild
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-wild.m3u8
-#EXTINF:-1, true-xzyte
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-xzyte.m3u8
-#EXTINF:-1, true-xzyte1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-xzyte1.m3u8
-#EXTINF:-1, true-bbcli
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-bbcli.m3u8
-#EXTINF:-1, true-explore1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-explore1.m3u8
-#EXTINF:-1, true-explore2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-explore2.m3u8
-#EXTINF:-1, true-xzyte
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/true-xzyte.m3u8
-#EXTINF:-1, ture-life
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/ture-life.m3u8
-#EXTINF:-1, ture-sci
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/ture-sci.m3u8
-#EXTINF:-1, wild-earth
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/wild-earth.m3u8
-#EXTINF:-1, wild-earth1
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/wild-earth1.m3u8
-#EXTINF:-1, wild-earth2
-https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/wild-earth2.m3u8
