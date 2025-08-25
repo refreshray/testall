@@ -3,6 +3,20 @@
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1.m3u8
 #EXTINF:-1, Monomax 1-1
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1-1.m3u8
+#EXTINF:-1, Monomax 1-2
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/31-220-3-103_monomax1-1.m3u8
+#EXTINF:-1, Monomax 1-3
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/31-220-3-103_monomax1-2.m3u8
+#EXTINF:-1, Monomax 1-4
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/v3tv-live-monomax1.m3u8
+#EXTINF:-1, Monomax 2-1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/31-220-3-103_monomax2-1.m3u8
+#EXTINF:-1, Monomax 2-2
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/31-220-3-103_monomax2-2.m3u8
+#EXTINF:-1, Monomax 2-3
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/v3tv-live-monomax2.m3u8
+#EXTINF:-1, nowsport1
+https://raw.githubusercontent.com/wandering-oldman/inter-sport2/refs/heads/main/nowsport1.m3u8
 #EXTINF:-1, SPOTV true
 https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/truespotv1.m3u8
 #EXTINF:-2, SPOTV 2 true
