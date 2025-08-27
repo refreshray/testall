@@ -19,3 +19,17 @@ https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/31-
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax-ligue1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="astro-premier1" tvg-logo="https://dookeela2.live/uploads/1729384542.png" tvg-language="ENG" group-title="SPORT",astro-premier1
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-astro-premier1.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="astro-premier2" tvg-logo="https://dookeela2.live/uploads/1729384502.png" tvg-language="ENG" group-title="SPORT",astro-premier2
+https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-astro-premier2.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="astro-football" tvg-logo="https://dookeela2.live/uploads/1729384406.png" tvg-language="ENG" group-title="SPORT",astro-football
+https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-astro-football.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="bein-sport1 SG" tvg-logo="https://api.ais-cloud.live/images/png/hd-bein1.png" tvg-language="ENG" group-title="SPORT",sg-bein-sport1
+https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-sg-bein-sport1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="bein-sport2 SG" tvg-logo="https://api.ais-cloud.live/images/png/hd-bein1.png" tvg-language="ENG" group-title="SPORT",sg-bein-sport2
+https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-sg-bein-sport2.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="bein-sport3 SG" tvg-logo="https://api.ais-cloud.live/images/png/hd-bein1.png" tvg-language="ENG" group-title="SPORT",sg-bein-sport3
+https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-sg-bein-sport3.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="bein-sport4 SG" tvg-logo="https://api.ais-cloud.live/images/png/hd-bein1.png" tvg-language="ENG" group-title="SPORT",sg-bein-sport4
+https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-sg-bein-sport4.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="bein-sport5 SG" tvg-logo="https://api.ais-cloud.live/images/png/hd-bein1.png" tvg-language="ENG" group-title="SPORT",sg-bein-sport5
+https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/alpha-sg-bein-sport5.m3u8
