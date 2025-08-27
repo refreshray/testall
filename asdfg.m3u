@@ -15,10 +15,6 @@ https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/mon
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/31-220-3-103_monomax2-1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Monomax 1" tvg-logo="https://ball67.com/assets/channels-logo/monomax-2.png" tvg-language="ENG" group-title="SPORT",Monomax 2-2
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/31-220-3-103_monomax2-2.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Monomax 1" tvg-logo="https://ball67.com/assets/channels-logo/monomax-3.png" tvg-language="ENG" group-title="SPORT",Monomax 3
-
-#EXTINF:-1 tvg-id="1" tvg-name="Monomax 1" tvg-logo="https://ball67.com/assets/channels-logo/monomax-4.png" tvg-language="ENG" group-title="SPORT",Monomax 4
-
 #EXTINF:-1 tvg-id="1" tvg-name="Monomax 1" tvg-logo="https://pcmer.com/wp-content/uploads/2019/08/Monomax-Logo.png tvg-language="ENG" group-title="SPORT",Monomax-ligue1
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax-ligue1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-language="" group-title="",asian-hits
