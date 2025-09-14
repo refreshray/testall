@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Monomax 1-1Eng
+#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-1Eng
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/31-220-3-103_monomax1-2.m3u8
 #EXTINF:-1, Monomax 1-2-Eng
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1-1.m3u8
@@ -25,6 +25,10 @@ https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein1.m3u8
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein2.m3u8
 #EXTINF:-1, True Bein 3
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein2.m3u8
+#EXTINF:-1, skysport-mainevent
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-mainevent.m3u8
+#EXTINF:-1, skysport-premier
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-premier.m3u8
 #EXTINF:-1, astro-premier-1
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier-1.m3u8
 #EXTINF:-1, astro-premier-1.1
@@ -45,3 +49,5 @@ https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/afn1.m3u8
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/afn2.m3u8
 #EXTINF:-1, asian-hits
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/asian-hits.m3u8
+#EXTINF:-1, cinemax1
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cinemax1.m3u8
