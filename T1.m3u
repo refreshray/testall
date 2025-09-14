@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein1.m3u8
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein2.m3u8
 #EXTINF:-1, True Bein 3
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein2.m3u8
-#EXTINF:-1, skysport-mainevent
+#EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",skysport-mainevent
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-mainevent.m3u8
 #EXTINF:-1, skysport-premier
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-premier.m3u8
