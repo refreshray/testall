@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-1Eng
+#EXTINF:-1, Monomax 1-1Eng
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/31-220-3-103_monomax1-2.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-2-Eng
+#EXTINF:-1, Monomax 1-2-Eng
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1-1.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-3-Eng
+#EXTINF:-1, Monomax 1-3-Eng
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax1.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-4-Eng
+#EXTINF:-1, Monomax 1-4-Eng
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max1.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-5-Eng
+#EXTINF:-1, Monomax 1-5-Eng
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max1a.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-6-Eng
+#EXTINF:-1, Monomax 1-6-Eng
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max7.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax1.png?raw=true",Monomax 1-7-Eng
+#EXTINF:-1, Monomax 1-7-Eng
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max9.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax2.png?raw=true",Monomax 2-1-TH
+#EXTINF:-1, Monomax 2-1-TH
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax2-1.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax2.png?raw=true",Monomax 2-2-TH
+#EXTINF:-1, Monomax 2-2-TH
 https://raw.githubusercontent.com/wandering-oldman/sport2238/refs/heads/main/monomax2.m3u8
-#EXTINF:-1, logo="https://github.com/tummeng21/logo/blob/main/monomax2.png?raw=true",Monomax 3
+#EXTINF:-1, Monomax 3
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max3.m3u8
 #EXTINF:-1, True Bein 1 
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein1.m3u8
