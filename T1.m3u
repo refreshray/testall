@@ -25,9 +25,23 @@ https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein1.m3u8
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein2.m3u8
 #EXTINF:-1, True Bein 3
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/truebein2.m3u8
+#EXTINF:-1, astro-premier-1
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier-1.m3u8
+#EXTINF:-1, astro-premier-1.1
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier1-2.m3u8
+#EXTINF:-1, astro-premier-1.2
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier1.m3u8
+#EXTINF:-1, astro-premier-2
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier2-2.m3u8
+#EXTINF:-1, astro-premier-2.1
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier-2.m3u8
+#EXTINF:-1, astro-premier-2.2
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier2.m3u8
 #EXTINF:-1, Warner th
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/warnerth.m3u8
 #EXTINF:-1, afn
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/afn1.m3u8
 #EXTINF:-1, afn2
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/afn2.m3u8
+#EXTINF:-1, asian-hits
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/asian-hits.m3u8
