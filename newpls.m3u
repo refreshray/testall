@@ -1,152 +1,151 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax1.png", Monomax1
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax1
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax-1-th.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax1.png", Monomax1(1)
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax1(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax-1hd.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax1.png", Monomax1(2)
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax1(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax1-1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax1.png", Monomax1(3)
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax1(3)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax1-hd.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax1.png", Monomax1(4)
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax1(4)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax2.png", Monomax2
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax2
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax-2-th.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax2.png", Monomax2(1)
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax2(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax2-1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax2.png", Monomax2(2)
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax2(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax2-hd.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Monomax2.png", Monomax2(3)
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax2(3)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/MOnomax%20Ligue%201.png", Monomax-ligue-1
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TFXbg97QaHE5VoZamR4ycS46ZT5kGQgB/view?usp=sharing"group-title="Monomax",Monomax-ligue-1
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/monomax-ligue-1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Afn.png", afn
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png"group-title="Monomax",afn
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/afn1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Afn.png", afn(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png"group-title="Monomax",afn(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/afn2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/AnimalShow.png", AnimalShow
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png"group-title="AIS PLAY",AnimalShow
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/animal-show.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/AsianHits.png", AsianHits
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png"group-title="AIS PLAY",AsianHits
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/asian-hits.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Cartoon%20network.png", Cartoon network
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png"group-title="AIS PLAY",Cartoon network
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cartoon-network.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Cartoon%20network.png", Cartoon network(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png"group-title="AIS PLAY",Cartoon network(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cartoon-network2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Cartoon%20network.png", Cartoon network(2)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png"group-title="AIS PLAY",Cartoon network(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nickelodeon-2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Cartoonito.png", Cartoonito
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png"group-title="AIS PLAY",Cartoonito
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cartonito.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Cartoonito.png", Cartoonito(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png"group-title="AIS PLAY",Cartoonito(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cartonito2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Cinemax.png", Cinemax
-https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cinemax1.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Cinemax.png", Cinemax(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png"group-title="AIS PLAY",Cinemax(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cinemax2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Discovery.png", Discovery
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png"group-title="AIS PLAY",Discovery
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/discovery.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Discovery.png", Discovery(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png"group-title="AIS PLAY",Discovery(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/discovery-th.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Foodnetwork.png", Foodnetwork
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png"group-title="AIS PLAY",Foodnetwork
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/foodnetwork.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Foodnetwork.png", Foodnetwork(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png"group-title="AIS PLAY",Foodnetwork(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/foodnetwork2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/GolfChannel2025w.png", GolfChannel
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannel2025w.png"group-title="AIS PLAY",GolfChannel
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/golf-channel1.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/GolfChannel2025w.png", GolfChannel(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannel2025w.png"group-title="AIS PLAY",GolfChannel(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/golf-channel2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/GolfChannel2025w.png", GolfChannel(2)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannel2025w.png"group-title="AIS PLAY",GolfChannel(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/golf-channel3.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/GolfChannel2025w.png", GolfChannel(3)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannel2025w.png"group-title="AIS PLAY",GolfChannel(3)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/golf-channel4.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/GolfChannel2025w.png", GolfChannel(4)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannel2025w.png"group-title="AIS PLAY",GolfChannel(4)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/golf-v3tv.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBO.png", HBO
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="AIS PLAY",HBO
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hbo1.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBO.png", HBO(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="AIS PLAY",HBO(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hbo2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBOfamily.png", HBOfamily
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png"group-title="AIS PLAY",HBOfamily
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hbo-family.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBOfamily.png", HBOfamily(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png"group-title="AIS PLAY",HBOfamily(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hbo-family2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBOjits.png", HBO hits
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="AIS PLAY",HBO hits
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hbo-hits.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBOjits.png", HBO hits(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="AIS PLAY",HBO hits(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hbo-hits2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBOjits.png", HBO hits(2)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="AIS PLAY",HBO hits(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/rock-ac3.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBOsignuture.png", HBOsignuture
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png"group-title="AIS PLAY",HBOsignuture
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hbo-siganature.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/HBOsignuture.png", HBOsignuture(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png"group-title="AIS PLAY",HBOsignuture(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/movie-hits.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/MySCI.png", MySCI
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png"group-title="AIS PLAY",MySCI
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nickelodeon.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Rock-Entertainment.png", Rock-Entertainment
+#EXTINF:-1 tvg-logo="https://aisplay.ais.co.th/portal/live/?vid=59ab204faae7311c5f0cc5ea"group-title="AIS PLAY",Rock-Entertainment
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/rock-ac2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/RockAction.png", RockAction
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png"group-title="AIS PLAY",RockAction
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/rock-ac1.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Discovery.png", Discovery
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png"group-title="AIS PLAY",Discovery
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/discovery.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Discovery.png", Discovery(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png"group-title="AIS PLAY",Discovery(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/discovery-th.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/WB.png", WB tv
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png"group-title="AIS PLAY",WB tv
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/warner.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/WB.png", WB tv(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png"group-title="AIS PLAY",WB tv(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/dreamwork.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/TLC.png", TLC
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png"group-title="AIS PLAY",TLC
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/tlc.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/TLC.png", TLC(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png"group-title="AIS PLAY",TLC(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/tlc2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/TLC.png", TLC(2)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png"group-title="AIS PLAY",TLC(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/tlc3.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/TLC.png", TLC(3)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png"group-title="AIS PLAY",TLC(3)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/thairath-2.m3u8
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Mono29Plus_new.png", Mono29Plus
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png"group-title="Monomax",Mono29Plus
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/amarin.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/", THAINESS
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png"group-title="AIS PLAY",THAINESS
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/thainess-2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/", THAINESS(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png"group-title="AIS PLAY",THAINESS(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/thainess.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="", document
+#EXTINF:-1 tvg-logo=""group-title="AIS PLAY",document
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/document.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Nickelodeon2.png", Nickelodeon
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png"group-title="AIS PLAY",Nickelodeon
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/document.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/Nickjr_2024.png", Nickjr
-https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/document.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png"group-title="AIS PLAY",Nickjr)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/thairath-2.m3u8
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://github.com/refreshray/Piclo/blob/main/SamRujLok.png", SamRujLok
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png"group-title="AIS PLAY",SamRujLok
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/document.m3u8
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://img.monomax.me/j2sf468iR18igDuNgPZg77607Wc=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/ANp2vVsSLLRzwpYR7vqlXF6TxJWKSm0L.png", RUSH
+#EXTINF:-1 tvg-logo=""group-title="Monomax",RUSH
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/wild-earth1.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://rotacult.com.br/wp-content/uploads/2020/07/ZooMoo-Kids.png", zoomoo
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png"group-title="",zoomoo
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/zoomoo.m3u8
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h6-th.png", V2H6
+#EXTINF:-1 tvg-logo=""group-title="MVTV",V2H6
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/rock-en.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://github.com/refreshray/Piclo/blob/main/", khongdee
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png"group-title="AIS PLAY",khongdee
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/cna.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://github.com/refreshray/Piclo/blob/main/", khongdee(1)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png"group-title="AIS PLAY",khongdee(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/khongdee-2.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://github.com/refreshray/Piclo/blob/main/", khongdee(2)
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png"group-title="AIS PLAY",khongdee(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/khongdee.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png", boomerang
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2025/06/02/e810afc0-3fba-11f0-8cc5-8d160eb89f9f_webp_original.webp"group-title="True Vision",boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", AXN
+#EXTINF:-1 tvg-logo=""group-title="True Vision",AXN
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/axn.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", bein-sport1
+#EXTINF:-1 tvg-logo=""group-title="True Vision",bein-sport1
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/bein-sport1-1.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", bein-sport2
+#EXTINF:-1 tvg-logo=""group-title="True Vision",bein-sport2
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/bein-sport2.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", bein-sport3
+#EXTINF:-1 tvg-logo=""group-title="True Vision",bein-sport3
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/bein-sport3.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", bein-sport3(1)
+#EXTINF:-1 tvg-logo=""group-title="True Vision",bein-sport3(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/bein-sport3-1.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", CCM
+#EXTINF:-1 tvg-logo=""group-title="True Vision",CCM
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/ccm.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", Crime+investigation
+#EXTINF:-1 tvg-logo=""group-title="True Vision",Crime+investigation
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/crimes1.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", Crime+investigation(1)
+#EXTINF:-1 tvg-logo=""group-title="True Vision",Crime+investigation(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/crimes1.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", HISTORY
+#EXTINF:-1 tvg-logo=""group-title="True Vision",HISTORY
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/history.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", HISTORY(1)
+#EXTINF:-1 tvg-logo=""group-title="True Vision",HISTORY(1)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/history2.m3u8
-#EXTINF:-1 group-title="True Vision" tvg-logo="", HISTORY(2)
+#EXTINF:-1 tvg-logo=""group-title="True Vision",HISTORY(2)
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/history3.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png"group-title="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png
+https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png
