@@ -25,6 +25,12 @@ https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premie
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier2-2.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/960px-Astro_Premier_League_2_%282024%29.png",astro premier league 2_2_FHD
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier2.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_FHD
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_1_FHD
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand1.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_1_1_FHD
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand2.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Sky_Sport_Premier_League_2022.svg/revision/latest/scale-to-width-down/300?cb=20220623065459",Sky Sport premier_FHD
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-premier.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Sky_Sport_Premier_League_2022.svg/revision/latest/scale-to-width-down/300?cb=20220623065459",Sky Sport premier_FHD_1
@@ -47,12 +53,6 @@ https://stream1.freetv.fun/176514d965ee1d1d1181d239b9f2250cedd8f6f30f11f7206bc04
 https://stream1.freetv.fun/aed05ada91bd67fec4d66c3749600827a2f811c82463650c8b32e84c262890bb.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg",Sky Sports Football_FHD
 https://stream1.freetv.fun/854da26a25e867f990ce3337f19a20720ac5d42b6807c614e7e1252066467697.ctv
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_FHD
-https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_1_FHD
-https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand1.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_1_1_FHD
-https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand2.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT SPORTS_1_HD
 https://stream1.freetv.fun/933f44e037e53a9cf86652f480db9e022aea0eb4b7d42f314ea3811b9b63b441.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT SPORTS_2_FHD
