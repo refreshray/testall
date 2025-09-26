@@ -29,10 +29,16 @@ https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premie
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-premier.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Sky_Sport_Premier_League_2022.svg/revision/latest/scale-to-width-down/300?cb=20220623065459",Sky Sport premier_FHD_1
 https://stream1.freetv.fun/a12bafe4dd27fce80b09539c70f98ae5c473b93946a4dff73d80d50a9c614f4d.ctv
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sport-maineven 4K_UHD
+https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/vspo4k.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/200?cb=20230210154620",Sky Sport-maineven_FHD
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-mainevent.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048",Sky Sport-maineven_1_FHD
 https://stream1.freetv.fun/e71680f7d258bd5f74fef4a5e56308434a8b4d7e1d0a92786de3b157b5574b0e.ctv
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048",Sky Sport-maineven_1_1_FHD
+https://stream1.freetv.fun/skysports-epl--wj-1.ctv
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048",Sky Sport-maineven_1_2_FHD
+https://stream1.freetv.fun/sky-sports-premierleague-1.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048",Sky Sport-maineven_1_HD
 https://stream1.freetv.fun/4fec27c9d88fbe9f870aca470f153e7685495ddc8b235d1e4d20e62b4593892b.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png",Sky Sports+_FHD
@@ -41,6 +47,12 @@ https://stream1.freetv.fun/176514d965ee1d1d1181d239b9f2250cedd8f6f30f11f7206bc04
 https://stream1.freetv.fun/aed05ada91bd67fec4d66c3749600827a2f811c82463650c8b32e84c262890bb.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg",Sky Sports Football_FHD
 https://stream1.freetv.fun/854da26a25e867f990ce3337f19a20720ac5d42b6807c614e7e1252066467697.ctv
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_FHD
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_1_FHD
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand1.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",astro-Grandstand_1_1_FHD
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand2.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT SPORTS_1_HD
 https://stream1.freetv.fun/933f44e037e53a9cf86652f480db9e022aea0eb4b7d42f314ea3811b9b63b441.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT SPORTS_2_FHD
@@ -53,10 +65,6 @@ https://stream1.freetv.fun/430add36142b8a2a71506b1f1c80c6731e6a8dcc6e8a9e4afd8d4
 https://stream1.freetv.fun/92272538c9c28bd080a8ad28e1c133a13118a0627a7a6b2114fa4dd74f6d3b59.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1200px-NBC_Sports_2023.svg.png",NBC Sports_HD
 https://stream1.freetv.fun/536f6ee15d7478049c8fd3f680471e1b7bcfd15da8424ae69897ab39db77a4b3.ctv
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/U-NEXT_logo_black.svg/1280px-U-NEXT_logo_black.svg.png",U-NEXT_HD
-https://stream1.freetv.fun/c38c845c50bd5958bd56f2ab58493a6633e082dd2d8312374801734b0a831d54.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/U-NEXT_logo_black.svg/1280px-U-NEXT_logo_black.svg.png",U-NEXT_1_HD
-https://stream1.freetv.fun/6f13552044b0ea4393a2ac7b59f2cc472506f711ad4718704d655f20656f0003.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/USA_Network_2005.svg/revision/latest/scale-to-width-down/284?cb=20221207124052",USA network
 https://stream1.freetv.fun/c433bf5087602742d877d4ad2d350f6d843ac115882f66b91753082a67cdf84e.ctv
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Nova_Sports_Premier_League_V2022.svg/revision/latest?cb=20231011042117",NOVA SPORTS_FHD
@@ -107,5 +115,5 @@ https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hub-premie4.
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hub-premie4-1.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.imgur.com/XhX3oUI.png",hub-premier5 _FHD
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hub-premie5.m3u8
-#EXTINF:-1 group-title=""tvg-logo="",
+
 
